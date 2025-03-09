@@ -5,6 +5,5 @@ A Java-based back-end solution designed to streamline flight bookings, ticketing
 
 ## 📁 **Repository Contents:**  
 1. **Files:**  
-   - 🖥️ Three `.html` files for the representation of the webpages.  
-   - 🛠️ Three `.txt` files containing the code for **HTML**, **CSS**, and **JavaScript**.  
-   - 🖼️ An additional folder for images of the shoes displayed.  
+   - 📄 12 *.java* files each comprising code for a specific class.    
+    
