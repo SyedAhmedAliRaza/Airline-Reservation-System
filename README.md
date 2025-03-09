@@ -5,5 +5,5 @@ A Java-based back-end solution designed to streamline flight bookings, ticketing
 
 ## 📁 **Repository Contents:**  
 1. **Files:**  
-   - 📄 12 *.java* files each comprising code for a specific class.    
+   - 📄 12 `.java` files each comprising code for a specific class.    
     
